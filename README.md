@@ -24,14 +24,14 @@ GUI를 활용한 팀 프로젝트입니다.
 
 </br></br>
 
-# 프로그램 화면 </br></br>
+# View </br></br>
 
 + 첫 화면</br>
 
-![image](https://user-images.githubusercontent.com/122337370/235590901-3d8e8280-97ee-4237-b7f0-49a2e0c79de6.png) </br>
+![image](https://user-images.githubusercontent.com/122337370/235590901-3d8e8280-97ee-4237-b7f0-49a2e0c79de6.png) </br></br>
 
 + 회원가입 화면</br>  
-![image](https://user-images.githubusercontent.com/122337370/235590977-98d0761e-ed01-4305-ab68-41c357f56d68.png) </br>
+![image](https://user-images.githubusercontent.com/122337370/235590977-98d0761e-ed01-4305-ab68-41c357f56d68.png) </br></br>
 
 + 상품 화면</br>
 ![image](https://user-images.githubusercontent.com/122337370/235591050-6f2c6b74-07bd-48fa-b05e-a40ecb1e9300.png)
